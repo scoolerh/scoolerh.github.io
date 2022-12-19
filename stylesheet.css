@@ -59,3 +59,7 @@ section
     padding: 15px; 
     margin: 20px 10%;
 }
+ul li
+{
+    text-align: center;
+}
