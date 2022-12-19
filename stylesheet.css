@@ -45,6 +45,12 @@ h1
     font-size: 200%;
     text-align: center;
 }
+h2
+{
+    color:black;
+    font-size: 160%;
+    text-align: left;
+}
 section
 {
     background-color: rgba(188, 188, 206, 0.708);
