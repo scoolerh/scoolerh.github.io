@@ -8,7 +8,7 @@ header, footer
 nav
 {
     text-align: center;
-    background-color: #ace3cb;
+    background-color: navy;
     padding: 12px 0px;
 }
 nav ul li 
@@ -22,13 +22,13 @@ nav ul li a
     font-size: 130%;
     text-decoration: none;
     color: whitesmoke; 
-    background-color: #ace3cb;
+    background-color: navy;
     padding: 20px 15px;
 }
 nav ul li a:hover
 {
     background-color: whitesmoke;
-    color: #ace3cb;
+    color: navy;
 }
 body
 {
@@ -41,25 +41,13 @@ body
 }
 h1
 {
-    color: #ace3cb;
+    color: navy;
     font-size: 200%;
-    text-align: center;
-}
-h2
-{
-    color: gray;
-    font-size: 160%;
-    text-align: center;
-}
-h3
-{
-    color: #4ea578;
-    font-size: 140%;
     text-align: center;
 }
 section
 {
-    background-color: #ace3cb56;
+    background-color: rgba(0, 0, 128, 0.417);
     border: 2px whitesmoke;
     border-radius: 15px; 
     padding: 15px; 
