@@ -45,21 +45,12 @@ h1
     font-size: 150%;
     text-align: center;
 }
-h2
-{
-    color:black;
-    font-size: 125%;
-    text-align: left;
-}
 section
 {
     background-color: rgba(188, 188, 206, 0.708);
     border: 2px whitesmoke;
+    text-align: center;
     border-radius: 15px; 
     padding: 15px; 
     margin: 20px 10%;
-}
-ul li
-{
-    text-align: center;
 }
